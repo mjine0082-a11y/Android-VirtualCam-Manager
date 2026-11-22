@@ -67,3 +67,4 @@ Camera2 / CameraX apps that never touch `android.hardware.Camera` will still sho
 - Device smoke test on latest Magisk/Zygisk (Open Camera first)
 - Camera2 output surface rewrite
 - GitHub Release so artifacts are not Actions-only
+m
